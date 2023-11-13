@@ -9,7 +9,7 @@ while True:
     1 = All countries population
     2 = Top 10 in 2022
     3 = Bottom 10 in 2022
-    4 = Graph
+    4 = Graph comparison of population
 """)
     userinput = int(input("Enter your choice : "))
     match userinput:
